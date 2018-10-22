@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Narasimha Toleti   narasimha.toleti@jocata.com  @twitter.com
 
 # THANKS
 
